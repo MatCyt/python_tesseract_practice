@@ -1,7 +1,7 @@
 # python_tesseract_practice
 
 materials:
-TESSEROCR  
+TESSEROCR   
 https://medium.com/better-programming/beginners-guide-to-tesseract-ocr-using-python-10ecbb426c3d
 
 Thesseract materials: https://github.com/tesseract-ocr/tessdoc  
