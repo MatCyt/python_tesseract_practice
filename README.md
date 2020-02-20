@@ -7,7 +7,7 @@ https://medium.com/better-programming/beginners-guide-to-tesseract-ocr-using-pyt
 Thesseract materials: https://github.com/tesseract-ocr/tessdoc  
 Improving quality: https://tesseract-ocr.github.io/tessdoc/ImproveQuality  
 
-PYTESSERACT  
+PYTESSERACT:  
 https://nanonets.com/blog/ocr-with-tesseract/  
 https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/  
 https://tesseract-ocr.github.io/tessdoc/ImproveQuality#page-segmentation-method  
